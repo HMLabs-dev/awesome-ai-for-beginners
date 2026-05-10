@@ -4,7 +4,9 @@
 
 ## Contents
 
-- [Which AI for What](#most-useful-ai-systems)
+- [Which AI for What](#most-useful-ai-tools)
+- [Learning AI Basics](#learning-ai-basics)
+- [Best Free vs Paid](#best-free-vs-paid)
 - [Prompting for Beginners](#prompting-for-beginners)
 
 ## Most Useful AI Tools
@@ -53,12 +55,19 @@ Comparison of the major tools: Which one is best for what?
 - [Suno](https://suno.com) - Create complete songs including lyrics, melody, and vocals from a simple text prompt.
 - [Lyria (Google)](https://gemini.google/overview/music-generation/) - Google's sophisticated music generation model designed to create high-quality soundtracks and music.
 
+## Learning AI Basics
+
+- [99% of Beginners Don't Know the Basics of AI](https://youtu.be/nVyD6THcvDQ)
+- [You’re not behind (yet): How to learn AI in 18 minutes](https://youtu.be/0Tch0N5nsRU)
+
+## Best Free vs Paid
+
 ## Prompting for Beginners
 
 Prompting is the art of talking to an AI. Here are the basics to get you started:
 
-- [Learn Prompting](https://learnprompting.org) - A comprehensive and free guide to prompt engineering.
-- [Prompt Engineering Guide](https://www.promptingguide.ai) - High-quality guides and resources for LLM prompting.
+- [LearnPrompting.org](https://learnprompting.org) - A comprehensive and free guide to prompt engineering.
+- [PromptingGuide.ai](https://www.promptingguide.ai) - High-quality guides and resources for LLM prompting.
 - [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library/library) - Expert-level prompt examples for various tasks.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
