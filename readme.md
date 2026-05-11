@@ -6,7 +6,7 @@
 
 - [Which AI for What](#most-useful-ai-tools)
 - [Learning AI Basics](#learning-ai-basics)
-- [Best Free vs Paid](#best-free-vs-paid)
+- [Free vs Paid](#free-vs-paid)
 - [Prompting for Beginners](#prompting-for-beginners)
 
 ## Most Useful AI Tools
@@ -57,10 +57,16 @@ Comparison of the major tools: Which one is best for what?
 
 ## Learning AI Basics
 
-- [99% of Beginners Don't Know the Basics of AI](https://youtu.be/nVyD6THcvDQ)
-- [You’re not behind (yet): How to learn AI in 18 minutes](https://youtu.be/0Tch0N5nsRU)
+Understanding the fundamentals helps you get better results. Here are some beginner-friendly guides:
 
-## Best Free vs Paid
+- [99% of Beginners Don't Know the Basics of AI](https://youtu.be/nVyD6THcvDQ) - A great starting point to understand how AI actually thinks.
+- [You’re not behind (yet): How to learn AI in 18 minutes](https://youtu.be/0Tch0N5nsRU) - A fast-paced overview of the current AI landscape and how to keep up.
+
+## Free vs Paid
+
+Is it worth paying $20/month? These resources help you decide:
+
+- [Which AI Subscription Is Best for the Average User?](https://www.ai-visibility.org.uk/blog/best-ai-subscription-for-everyday-use/) - A detailed comparison of ChatGPT Plus, Claude Pro, and Gemini Advanced.
 
 ## Prompting for Beginners
 
