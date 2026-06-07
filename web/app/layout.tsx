@@ -67,7 +67,7 @@ export default function RootLayout({
           <div className="mx-auto max-w-[1200px] px-6 py-6 flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
             <div className="flex flex-col gap-2">
               <div className="text-xs text-foreground/60">
-                © {new Date().getFullYear()} Awesome AI for Beginners
+                © {new Date().getFullYear()} Awesome AI for Beginners by HMLabs.
               </div>
               <div className="text-xs text-foreground/60">
                 Website licensed under
@@ -86,18 +86,7 @@ export default function RootLayout({
                   rel="noopener noreferrer"
                   className="ml-1 font-medium hover:underline"
                 >
-                  CC0-1.0
-                </a>
-              </div>
-              <div className="text-xs text-foreground/60">
-                Part of
-                <a
-                  href="https://hmlabs.eu"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="ml-1 font-medium hover:underline"
-                >
-                  HMLabs
+                  CC0-1.0.
                 </a>
               </div>
             </div>
