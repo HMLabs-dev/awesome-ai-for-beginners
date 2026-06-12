@@ -47,7 +47,7 @@ export const metadata: Metadata = {
       "Curated resources to understand and use AI without any technical background.",
     creator: "@awesomeai",
   },
-  metadataBase: new URL("https://awesome-ai-for-beginners.hmlabs.eu"),
+  metadataBase: new URL("https://aiforbeginners.henrymeyer.de"),
 };
 
 export default function RootLayout({
